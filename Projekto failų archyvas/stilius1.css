@@ -1,0 +1,100 @@
+body {
+
+   background-color: rgb(155, 202, 214);   
+   
+}
+
+.Pavadinimas{
+   color:rgb(0, 0, 255);
+	letter-spacing: 3px;
+   
+}
+
+
+.Pavadinimas:hover{
+
+  padding: 0 0 0 100px;
+  border-style: dotted;
+  
+}
+
+.Pavadinimas1{
+
+	letter-spacing: 3px;
+   padding: 60px 0 0 0;
+   font-family: 'Brush Script MT', cursive;
+   color: rgb(207, 40, 40);
+   
+
+}
+
+
+.labas{
+    
+   padding: 250px 0 0 0;
+}
+
+.Pavadinimas1:active{
+
+    transform: scaleY(1.5) rotate(-45deg);
+ 
+   
+}
+
+.kugelis:active{
+
+   transform: scale(1.3) rotate(180deg);
+
+
+}
+.logo{
+
+   text-align:center;
+
+}
+
+.logo:active{
+
+   transform:scale(1.5);
+        
+}
+
+
+
+
+.mygtukas{
+
+   padding: 200px 0px 0 160px; 
+
+}
+
+
+h3{
+
+   padding: 0px 0px 0 30px; 
+
+}
+
+
+.Recepto{
+
+letter-spacing: 2px;
+
+}
+
+.nuotraukas{
+
+padding:50px 0px 0 0;
+
+}
+
+.video{
+
+   padding:50px 0px 0 0;
+
+}
+
+
+
+
+
